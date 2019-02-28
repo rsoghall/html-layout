@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    background: lightgrey;
+    width: 100%;
+    height: 100vh;
+
+}
+.box1{
+   
+    width: 100%;
+    height: 15%;
+    background: #615A5E;
+}
+.box2{
+    width: 85%;
+    height: 75%;
+    background: whitesmoke;
+    margin: auto;
+}
+.box3{
+    width: 85%;
+    height: 10%;
+    background: #1B191A;
+    margin: auto;
+}
